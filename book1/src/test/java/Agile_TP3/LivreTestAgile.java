@@ -1,9 +1,13 @@
-package Agile_TP3.book1;
+package Agile_TP3;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import Agile_TP3.book1.Librairie;
+import Agile_TP3.book1.Livre;
+import Agile_TP3.book1.Prix;
 
 public class LivreTestAgile
 {
